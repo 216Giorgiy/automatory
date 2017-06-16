@@ -1,0 +1,2 @@
+# automatory
+Automagic.WORK!
